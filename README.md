@@ -13,9 +13,7 @@
 - 💰 Conocimiento en Diseño web, Blender (contenido 3D) y Brand de Marcas
 - 🎮 Gamer 
 
-<br>
-
-### ⚙️ &nbsp;GitHub Analytics
+## ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/ArisGuimera">
