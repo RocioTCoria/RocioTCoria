@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Hola, soy <a href="https://royalty-gamma.vercel.app/" target="_blank">Royalty</a> 👋😁</h1>
+<h1 align="center">Hola, soy <a href="https://royalty-gamma.vercel.app/" target="_blank" >Royalty</a> 👋😁</h1>
 </div>
 <img src="img/valorant-update-9-04-patch-notes.jpg">
 
