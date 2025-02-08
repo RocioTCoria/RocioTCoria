@@ -14,6 +14,9 @@
   [![YouTube Channel Subscribers](https://img.shields.io/badge/Youtube-da0f0f)](https://youtube.com/@Royalty-RTC?sub_confirmation=1)
   [![Twitch Status](https://img.shields.io/badge/Twitch-6912c6)](https://www.twitch.tv/royalty_rtc)
   [![Behance Status](https://img.shields.io/badge/Behance-1d1ae3)](https://www.behance.net/RTCoria)
+  <img src="https://img.shields.io/badge/Youtube-da0f0f" height="25" alt="Youtube"  />
+  <img src="https://img.shields.io/badge/Twitch-6912c6" height="25" alt="Twitch"  />
+  <img src="https://img.shields.io/badge/Behance-1d1ae3" height="25" alt="Behance"  />
 </div>
 
 ###
