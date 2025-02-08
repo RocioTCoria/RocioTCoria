@@ -10,14 +10,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Youtube-da0f0f" href="https://youtube.com/@Royalty-RTC?sub_confirmation=1" height="25" alt="Youtube"  />
-  <img src="https://img.shields.io/badge/Twitch-6912c6" href="https://www.twitch.tv/royalty_rtc" height="25" alt="Twitch"  />
-  <img src="https://img.shields.io/badge/Behance-1d1ae3" href="https://www.behance.net/RTCoria" height="25" alt="Behance"  />
-</div>
-
-###
-
 <br clear="both">
 
 <h3 align="left">👩‍💻  About Me</h3>
@@ -33,7 +25,7 @@
 <h3 align="left">💎 Visit my page</h3>
 
   <div align="center">
-  <a href="https://royalty-gamma.vercel.app/" target="_blank"><img src="/img/Captura de pantalla (1037).png" height="180" alt="Royalty"/> </a>
+  <a href="https://royalty-gamma.vercel.app/" target="_blank"><img src="/img/Captura de pantalla (1037).png" height="200" alt="Royalty"/> </a>
 </div>
 
 ###
