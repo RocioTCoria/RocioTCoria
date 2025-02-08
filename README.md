@@ -39,7 +39,7 @@
 <h3 align="left">💎 Visit my page</h3>
 
   <div align="center">
-  <a href="https://royalty-gamma.vercel.app/" target="_blank"><img src="/img/Captura de pantalla (1037).png" height="25" alt="Royalty"/> </a>
+  <a href="https://royalty-gamma.vercel.app/" target="_blank"><img src="/img/Captura de pantalla (1037).png" height="100" alt="Royalty"/> </a>
 </div>
 
 ###
