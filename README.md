@@ -30,7 +30,7 @@
 
 ###
 
-<p align="left">I'm from Argentina<br><br>- 🔭 I’m working as Multimedial Designer<br>- 📚 I'm currently learning Typescript<br>- ⚡ In my free time I develop new pages</p>
+<p align="left">I'm from Argentina<br><br>- 🔭 I’m working as Multimedial Designer<br>- 📚 I'm currently learning Typescript<br>- ⚡ In my free time I develop and design web pages</p>
 
 ###
 
