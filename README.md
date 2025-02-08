@@ -33,7 +33,7 @@
 <h3 align="left">💎 Visit my page</h3>
 
   <div align="center">
-  <a href="https://royalty-gamma.vercel.app/" target="_blank"><img src="/img/Captura de pantalla (1037).png" height="100" alt="Royalty"/> </a>
+  <a href="https://royalty-gamma.vercel.app/" target="_blank"><img src="/img/Captura de pantalla (1037).png" height="180" alt="Royalty"/> </a>
 </div>
 
 ###
@@ -93,10 +93,3 @@
 
 ###
 
-<br clear="both">
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&theme=dark&username=RocioTCoria" alt="Layout with last medium posts"  />
-</div>
-
-###
