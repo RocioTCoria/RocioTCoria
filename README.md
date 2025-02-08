@@ -11,12 +11,9 @@
 ###
 
 <div align="center">
-  [![YouTube Channel Subscribers](https://img.shields.io/badge/Youtube-da0f0f)](https://youtube.com/@Royalty-RTC?sub_confirmation=1)
-  [![Twitch Status](https://img.shields.io/badge/Twitch-6912c6)](https://www.twitch.tv/royalty_rtc)
-  [![Behance Status](https://img.shields.io/badge/Behance-1d1ae3)](https://www.behance.net/RTCoria)
-  <img src="https://img.shields.io/badge/Youtube-da0f0f" height="25" alt="Youtube"  />
-  <img src="https://img.shields.io/badge/Twitch-6912c6" height="25" alt="Twitch"  />
-  <img src="https://img.shields.io/badge/Behance-1d1ae3" height="25" alt="Behance"  />
+  <img src="https://img.shields.io/badge/Youtube-da0f0f" href="https://youtube.com/@Royalty-RTC?sub_confirmation=1" height="25" alt="Youtube"  />
+  <img src="https://img.shields.io/badge/Twitch-6912c6" href="https://www.twitch.tv/royalty_rtc" height="25" alt="Twitch"  />
+  <img src="https://img.shields.io/badge/Behance-1d1ae3" href="https://www.behance.net/RTCoria" height="25" alt="Behance"  />
 </div>
 
 ###
@@ -24,7 +21,7 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=RocioTCoria.RocioTCoria&left_color=steelblue&right_color=skyblue"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=RocioTCoria.RocioTCoria&left_color=steelblue&right_color=skyblue" />
 </div>
 
 ###
@@ -33,7 +30,17 @@
 
 ###
 
-<p align="left">I'm from Argentina<br><br>- 🔭 I’m working as Multimedial Designer<br>- 📚 I'm currently learning Typescript<br>- ⚡ In my free time I develop and design web pages</p>
+<p align="left">I'm from Argentina ✨<br><br>- 🎨 I’m working as Multimedial Designer<br>- 📚 I'm currently learning Typescript<br>- 💻 In my free time I develop and design web pages</p>
+
+###
+
+###
+
+<h3 align="left">💎 Visit my page</h3>
+
+  <div align="center">
+  <a href="https://royalty-gamma.vercel.app/" target="_blank"><img src="/img/Captura de pantalla (1037).png" height="25" alt="Royalty"/> </a>
+</div>
 
 ###
 
